@@ -1,1 +1,5 @@
 temp.txt
+
+#ignore any .zip file
+*.zip
+
